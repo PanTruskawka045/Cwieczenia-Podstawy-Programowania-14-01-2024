@@ -1,0 +1,15 @@
+/Users/pawelnowak/RiderProjects/Cwiczenia 2024-01-14/Zadanie5/bin/Debug/net5.0/Zadanie5.deps.json
+/Users/pawelnowak/RiderProjects/Cwiczenia 2024-01-14/Zadanie5/bin/Debug/net5.0/Zadanie5.runtimeconfig.json
+/Users/pawelnowak/RiderProjects/Cwiczenia 2024-01-14/Zadanie5/bin/Debug/net5.0/Zadanie5.runtimeconfig.dev.json
+/Users/pawelnowak/RiderProjects/Cwiczenia 2024-01-14/Zadanie5/bin/Debug/net5.0/Zadanie5.dll
+/Users/pawelnowak/RiderProjects/Cwiczenia 2024-01-14/Zadanie5/bin/Debug/net5.0/ref/Zadanie5.dll
+/Users/pawelnowak/RiderProjects/Cwiczenia 2024-01-14/Zadanie5/bin/Debug/net5.0/Zadanie5.pdb
+/Users/pawelnowak/RiderProjects/Cwiczenia 2024-01-14/Zadanie5/obj/Debug/net5.0/Zadanie5.csproj.AssemblyReference.cache
+/Users/pawelnowak/RiderProjects/Cwiczenia 2024-01-14/Zadanie5/obj/Debug/net5.0/Zadanie5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelnowak/RiderProjects/Cwiczenia 2024-01-14/Zadanie5/obj/Debug/net5.0/Zadanie5.AssemblyInfoInputs.cache
+/Users/pawelnowak/RiderProjects/Cwiczenia 2024-01-14/Zadanie5/obj/Debug/net5.0/Zadanie5.AssemblyInfo.cs
+/Users/pawelnowak/RiderProjects/Cwiczenia 2024-01-14/Zadanie5/obj/Debug/net5.0/Zadanie5.csproj.CoreCompileInputs.cache
+/Users/pawelnowak/RiderProjects/Cwiczenia 2024-01-14/Zadanie5/obj/Debug/net5.0/Zadanie5.dll
+/Users/pawelnowak/RiderProjects/Cwiczenia 2024-01-14/Zadanie5/obj/Debug/net5.0/ref/Zadanie5.dll
+/Users/pawelnowak/RiderProjects/Cwiczenia 2024-01-14/Zadanie5/obj/Debug/net5.0/Zadanie5.pdb
+/Users/pawelnowak/RiderProjects/Cwiczenia 2024-01-14/Zadanie5/obj/Debug/net5.0/Zadanie5.genruntimeconfig.cache
